@@ -1,4 +1,4 @@
 streamlit
-pickle
 pandas
 base64
+pickle-mixin
