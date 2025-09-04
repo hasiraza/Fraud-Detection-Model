@@ -181,7 +181,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 Muhammad Haseeb Raza - hasiraza511@gmail.com
-
+https://github.com/hasiraza/Fraud-Detection-Model.git
 Project Link: [https://github.com/yourusername/fraud-detection-model](https://github.com/yourusername/fraud-detection-model)
 
 ## 🙏 Acknowledgments
