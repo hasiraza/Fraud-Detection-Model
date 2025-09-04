@@ -72,7 +72,7 @@ except FileNotFoundError:
 
 # Load model
 try:
-    with open('Model\\Model.pkl', 'rb') as file:
+    with open('Model.pkl', 'rb') as file:
         model = pickle.load(file)
     model_loaded = True
 except:
