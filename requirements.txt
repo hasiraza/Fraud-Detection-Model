@@ -1,4 +1,2 @@
-streamlit
-pandas
-base64
-pickle-mixin
+pandas==2.3.2
+streamlit==1.49.1
