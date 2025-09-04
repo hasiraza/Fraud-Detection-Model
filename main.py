@@ -66,7 +66,7 @@ def set_background(png_file):
 
 # Apply background
 try:
-    set_background('src\\background.jpg')
+    set_background("src\\background.jpg")
 except FileNotFoundError:
     st.warning("Background image 'background.jpg' not found.")
 
